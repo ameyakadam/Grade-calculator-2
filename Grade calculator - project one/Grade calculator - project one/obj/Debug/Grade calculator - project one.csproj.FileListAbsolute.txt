@@ -1,0 +1,10 @@
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade calculator - project one.csprojAssemblyReference.cache
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade_calculator___project_one.Form1.resources
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade_calculator___project_one.Properties.Resources.resources
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade calculator - project one.csproj.GenerateResource.cache
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade calculator - project one.csproj.CoreCompileInputs.cache
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\bin\Debug\Grade calculator - project one.exe.config
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\bin\Debug\Grade calculator - project one.exe
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\bin\Debug\Grade calculator - project one.pdb
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade calculator - project one.exe
+C:\Users\ameya\source\repos\Grade calculator - project one\Grade calculator - project one\obj\Debug\Grade calculator - project one.pdb
